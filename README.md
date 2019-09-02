@@ -1,4 +1,4 @@
-# Date-Nager
+# Nager-Date
 Because we are lazy and want holidays ASAP !
 
 ### How to use ?
