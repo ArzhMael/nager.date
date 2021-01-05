@@ -4,7 +4,7 @@
   "description": "Because we are lazy and want holidays ASAP !",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "country-list": "^2.2.0"
   },
   "devDependencies": {},
